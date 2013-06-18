@@ -1,4 +1,6 @@
 <?
+hak2asdfasdf`
+sdf
 function abc()
 {}
 ?>
